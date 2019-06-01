@@ -1,2 +1,2 @@
 # hello-world
-first_prog
+Hi Everyone!
