@@ -1,2 +1,4 @@
 # hello-world
-Hi Everyone!
+Hi Everyone,
+
+My name is Ham and i love coding in python and Android.
